@@ -1,2 +1,2 @@
-rootProject.name = "Corona Native Android"
+rootProject.name = "Solar2D Build Plugin"
 include("app", "plugin")
